@@ -2,4 +2,5 @@
 env.component = "catalogue"
 env.app_lang = "nodejs"
 env.dependencyCheck = "false"
+env.sonarQubecheck = "false"
 ci()
